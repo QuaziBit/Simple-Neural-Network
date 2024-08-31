@@ -1,0 +1,1 @@
+Run preprocess_image_v3.py if you need normalized mnist data.
