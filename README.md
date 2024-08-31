@@ -22,6 +22,6 @@ You can run test_model_v3.py if you want to get some testing of the current weig
 run: visualize_model_v3.py
 
 # Examples
-![alt text](https://github.com/QuaziBit/Simple-Neural-Network/main/img/1.jpg?raw=true)
-![alt text](https://github.com/QuaziBit/Simple-Neural-Network/main/img/2.jpg?raw=true)
-![alt text](https://github.com/QuaziBit/Simple-Neural-Network/main/img/3.jpg?raw=true)
+![image info](img/1.jpg)
+![image info](img/2.jpg)
+![image info](img/3.jpg)
